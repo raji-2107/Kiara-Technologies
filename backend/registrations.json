@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "RAJESWARI R S IT-2023",
+    "age": "13",
+    "phone": "09543252115",
+    "email": "2315033@nec.edu.in",
+    "address": "137,Sathyamoorthy street,tirunelveli town.",
+    "category": "Medium",
+    "competition": "Singing",
+    "registeredAt": "2026-10-07T10:11:03.866Z"
+  },
+  {
+    "id": 2,
+    "name": "RAJESWARI R S IT-2023",
+    "age": "5",
+    "phone": "09543252115",
+    "email": "2315033@nec.edu.in",
+    "address": "137,Sathyamoorthy street,tirunelveli town.",
+    "category": "Kids",
+    "competition": "Singing",
+    "registeredAt": "2026-10-07T10:14:35.245Z"
+  }
+]
